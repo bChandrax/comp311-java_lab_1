@@ -19,4 +19,4 @@ public class Question4 {
         //concactinate and print
         System.out.println("You entered "+ number + ", " + dec +" and the word "+ "\"" +word+ "\"");
     }
-}5
+}
