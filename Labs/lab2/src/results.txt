@@ -1,0 +1,5 @@
+jjk,100
+jk,90
+biggest,80
+largest,70
+regardless,60
