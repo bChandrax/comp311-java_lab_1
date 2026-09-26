@@ -1,0 +1,3 @@
+mark,80
+blackie,56
+razor,41
