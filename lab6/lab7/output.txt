@@ -1,0 +1,7 @@
+Line 1: Java file I/O is straightforward.
+Line 2: PrintWriter simplifies writing text.
+Line 3: Always manage open file resources.
+Line 4: Try-with-resources closes files automatically.
+Line 5: Writing process completed.
+Line 6: Appended line one.
+Line 7: Appended line two.
